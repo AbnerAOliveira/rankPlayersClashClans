@@ -1,7 +1,7 @@
-export class player {
+export class PlayerModels {
   rank: number;
   name: string;
   expLevel: number;
-  trophies: 5331;
+  trophies: number;
 
 }
